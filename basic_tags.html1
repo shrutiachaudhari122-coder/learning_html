@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=dvice-width, initial-scale=1.0">
+    <tittle> Basic Tags </tittle>
+</head
+<body>
+    <h1>Tourism place in India</h1>
+    <h2>Introduction</h2>
+    <p>  India is one of the most beautiful countries in the world. It is famous for its rich culture, historical monuments, natural beauty, wildlife, mountains, beaches, and festivals. Every year, millions of tourists visit India to explore its famous destinations.</p>
+    
+    <h3>1.Taj Mahal</h3>
+    <p>The <b> Taj Mahal </b> is one of the most famous monuments in the world and a<b><i> UNESCO World Heritage Site.</i></b> It was built by the Mughal Emperor<i> Shah Jahan </i>in memory of his beloved wife Mumtaz Mahal between <ins> 1632 and 1653.</ins> Made entirely of white marble, it is considered a symbol of eternal love. The monument is beautifully decorated with intricate carvings, precious stones, and <mark>Persian-style gardens.</mark> Every year, millions of tourists from around the world visit the Taj Mahal to admire its magnificent architecture. It's marbal ismainly made up of CaCO<sub>3</sub>. This monument is 3<sup>50</sup>years old.</p>
+
+    <h3>2.Jaipur (Rajasthan)</h3>
+    <p><strong> Jaipur </strong>, the capital city of Rajasthan, is popularly known as the <strong>pink city</strong>  because many of its buildings are painted pink, a color representing hospitality. Founded in 1727 by <mark>Maharaja Sawai Jai Singh II</mark>, Jaipur is famous for its grand forts, royal palaces, colorful markets, and rich cultural heritage. The city is home to famous attractions such as <ins>Hawa Mahal, Amer Fort, City Palace, and Jantar Mantar</ins>, which is also a< UNESCO World Heritage Site. <del>Udaipur</del>Jaipur is a major destination for tourists interested in history, architecture, and traditional Rajasthani culture.</p>
+
+    <h3>3.Goa</h3>
+    <p>Goa is <mark>India's smallest state</mark> by area and one of its most popular tourist destinations. Located on the<del>eastern</del> western coast along the Arabian Sea, Goa is famous for its beautiful beaches, Portuguese architecture, churches, nightlife, seafood, and water sports.Goa receives over 10<sup>6</sup> tourist every year. The state was ruled by the Portuguese for over 450 years, and this influence can still be seen in its buildings, food, and culture. Popular beaches include<ins> Baga Beach, Calangute Beach, Anjuna Beach, and Palolem Beach.</ins> Tourists also visit historic churches like the<strong> Basilica of Bom Jesus</strong>, a UNESCO World Heritage Site</p>
+
+    <h3>4.Kerala</h3>
+    <p><b>Kerala</b>, located in southern India, is popularly known as <mark><i>"God's Own Country."</i></mark> It is famous for its peaceful backwaters, lush green landscapes, tea plantations, wildlife sanctuaries, beaches, and Ayurvedic treatments. Tourists enjoy houseboat cruises in <ins>Alleppey (Alappuzha) and Kumarakom,</ins> while hill stations like<b> Munnar </b> attract visitors with their tea gardens and pleasant climate. Kerala is also well known for its traditional dance form <del>lawani</del><i>Kathakali</i>, martial art <i>Kalaripayattu</i>, and delicious cuisine. Its high literacy rate and clean environment make it one of India's most attractive tourist destinations.</p>
+
+    <h3>5.Ladakh</h3>
+    <p><b>Ladakh</b> is a beautiful union territory in northern India, surrounded by the majestic Himalayas and Karakoram mountain ranges. It is famous for its breathtaking landscapes, crystal-clear lakes, ancient Buddhist monasteries, and adventurous roads. water(H<sub>2</sub>O) is present. Popular attractions include <mark>Pangong Lake, Nubra Valley, Magnetic Hill, Khardung La Pass, and Leh Palace.</mark> Ladakh is also a favorite destination for trekking, river rafting, mountain biking, and motorcycle trips. The best time to visit is between<i> May and September,</i> when the roads are open and the weather is pleasant.<p/>
